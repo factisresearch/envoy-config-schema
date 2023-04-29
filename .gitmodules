@@ -1,9 +1,6 @@
 [submodule "libs/github.com/cncf/xds"]
 	path = libs/github.com/cncf/xds
 	url = git@github.com:cncf/xds.git
-[submodule "libs/github.com/cncf/udpa"]
-	path = libs/github.com/cncf/udpa
-	url = git@github.com:cncf/udpa.git
 [submodule "libs/github.com/envoyproxy/envoy"]
 	path = libs/github.com/envoyproxy/envoy
 	url = git@github.com:envoyproxy/envoy.git
