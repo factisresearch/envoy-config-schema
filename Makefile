@@ -18,4 +18,5 @@ generate-json-schemas:
 		-I$(PWD)/libs/github.com/envoyproxy/envoy/api \
 		$(PWD)/libs/github.com/envoyproxy/envoy/api/envoy/config/bootstrap/v3/bootstrap.proto \
 		$(PWD)/libs/github.com/envoyproxy/envoy/api/envoy/extensions/transport_sockets/tls/v3/tls.proto \
-		$(PWD)/libs/github.com/envoyproxy/envoy/api/envoy/extensions/access_loggers/file/v3/file.proto
+		$(PWD)/libs/github.com/envoyproxy/envoy/api/envoy/extensions/access_loggers/file/v3/file.proto \
+		$(PWD)/libs/github.com/envoyproxy/envoy/api/envoy/extensions/filters/network/tcp_proxy/v3/tcp_proxy.proto
